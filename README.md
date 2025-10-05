@@ -54,3 +54,10 @@ Für Karrierechancen, Zusammenarbeit oder Fragen zum Projekt können Sie mich ge
 
 - 📧 Email: [k.svitlana@web.de](mailto:k.svitlana@web.de)
 - 🔗 LinkedIn: [Svitlana Kashkina](https://www.linkedin.com/in/svitlana-kashkina-12a0922b4/)
+
+
+---
+
+## Tags
+
+#ReactNative #Expo #JavaScript #NodeJS #Express #PostgreSQL #WebSockets #MobileApp #ChatApp #PushNotifications #Portfolio #Socket.IO #Axios #RESTful API #SSL-Zertifikat

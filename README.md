@@ -39,6 +39,7 @@ Sichere Kommunikation erfolgt über HTTPS mit SSL-Zertifikat.
 - React Native (Expo)
 - JavaScript (ES6)
 - NativeBase UI
+- Node.js
 - Axios (RESTful API)
 - WebSockets / Socket.IO
 - Expo Notifications

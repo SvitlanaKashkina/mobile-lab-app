@@ -61,4 +61,4 @@ Für Karrierechancen, Zusammenarbeit oder Fragen zum Projekt können Sie mich ge
 
 ## Tags
 
-#ReactNative #Expo #JavaScript #NodeJS #Express #PostgreSQL #WebSockets #MobileApp #ChatApp #PushNotifications #Portfolio #Socket.IO #Axios #RESTful API #SSL-Zertifikat
+#ReactNative #Expo #JavaScript #NodeJS #Express #PostgreSQL #WebSockets #MobileApp #ChatApp #PushNotifications #Portfolio #Socket.IO #Axios #RESTful API #SSL-Zertifikat #Node.js #Visual Studio Code 

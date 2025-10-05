@@ -50,7 +50,7 @@ Sichere Kommunikation erfolgt über HTTPS mit SSL-Zertifikat.
 
 ## Contact
 
-Für Karrierechancen, Zusammenarbeit oder Fragen zum Projekt, kontaktieren Sie mich bitte per Email oder über LinkedIn:
+Für Karrierechancen, Zusammenarbeit oder Fragen zum Projekt können Sie mich gerne kontaktieren:
 
-📧 Email: k.svitlana@web.de
-🔗 LinkedIn: https://www.linkedin.com/in/svitlana-kashkina-12a0922b4/
+- 📧 Email: [k.svitlana@web.de](mailto:k.svitlana@web.de)  
+- 🔗 LinkedIn: [Svitlana Kashkina](https://www.linkedin.com/in/svitlana-kashkina-12a0922b4/)

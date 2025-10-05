@@ -1,0 +1,86 @@
+{
+  "expo": {
+    "name": "Company",
+    "slug": "MobileApp",
+    "version": "1.0.54",
+    "jsEngine": "jsc",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.company.mobileapp",
+      "supportsTablet": true,
+      "icon": "./assets/icon.png",
+      "buildNumber": "54",
+      "splash": {
+        "image": "./assets/splash-icon.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#ffffff"
+      },
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "remote-notification"
+        ],
+        "UIStatusBarStyle": "UIStatusBarStyleDarkContent",
+        "NSPhotoLibraryUsageDescription": "Diese App benötigt Zugriff auf die Fotomediathek, um Bilder auszuwählen und zu senden.",
+        "ITSAppUsesNonExemptEncryption": false,
+        "NSAppTransportSecurity": {
+          "NSAllowsArbitraryLoads": true
+        }
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "53bc41dc-9b91-45f5-877e-b169fc722a86"
+      }
+    },
+    "android": {
+      "package": "com.company.app",
+      "versionCode": 54,
+      "softwareKeyboardLayoutMode": "pan",
+      "splash": {
+        "image": "./assets/splash-android.png",
+        "resizeMode": "cover",
+        "backgroundColor": "#87cefa",
+        "hidden": false,
+        "translucent": false
+      },
+      "permissions": [
+        "INTERNET",
+        "VIBRATE",
+        "POST_NOTIFICATIONS",
+        "READ_MEDIA_IMAGES",
+        "READ_EXTERNAL_STORAGE"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1405F7"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+     "expo-mail-composer",
+     "expo-notifications",
+     "expo-image-picker"
+    ],
+    "owner": "********",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/...."
+    }
+  }
+}

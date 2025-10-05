@@ -1,7 +1,7 @@
 # Mobile Lab App
 
 **Mobile Lab App** ist eine mobile Anwendung zur Kommunikation, entwickelt mit React Native (Expo).  
-Sie demonstriert praxisnahe Funktionen wie Benutzerregistrierung und -authentifizierung, Benutzerprofil mit Foto, Echtzeit-Chat (Text & Bilder), News-System, Feedback per E-Mail und Push-Benachrichtigungen.  
+Sie demonstriert praxisnahe Funktionen wie Benutzerregistrierung und -authentifizierung, Benutzerprofil mit Foto, Echtzeit-Chat, News-System, Feedback per E-Mail und Push-Benachrichtigungen.  
 Es handelt sich um den Client-Teil (Frontend); der Server-Teil (Backend) wird in einem separaten Repository gezeigt und beschrieben.  
 Dieses Projekt wurde als Teil meines Portfolios entwickelt.
 
